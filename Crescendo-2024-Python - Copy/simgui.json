@@ -1,0 +1,25 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [47]": {
+        "header": {
+          "open": true
+        }
+      }
+    },
+    "Timing": {
+      "window": {
+        "visible": false
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Autonomous Mode": "String Chooser"
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
